@@ -19,7 +19,3 @@
 
 ## Kontribusi
 Jika ingin berkontribusi dalam proyek ini, silakan fork repository ini, buat perubahan yang diperlukan, dan ajukan pull request.
-
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
